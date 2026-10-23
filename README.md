@@ -1,3 +1,5 @@
+## Node.js demo app with automated CI/CD using GitHub Actions and Docker.
+
 # Task 1: Automate Code Deployment Using CI/CD Pipeline (GitHub Actions)
 
 ## 📌 Objective
