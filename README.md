@@ -9,7 +9,7 @@ Set up an automated CI/CD pipeline to build and deploy a Node.js web application
 * **Node.js & Express** (Sample Web Application)
 * **Docker** (Containerization)
 
-## 🚀 What Was Done
+##  What Was Done
 1. Created a sample Node.js web server (`server.js`) with an Express endpoint
 2. Configured package dependencies (`package.json`)
 3. Automated the build and deployment process using a GitHub Actions workflow YAML file
